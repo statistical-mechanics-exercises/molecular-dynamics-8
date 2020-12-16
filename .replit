@@ -1,0 +1,2 @@
+run = "python main.py && python -m unittest testing/test_main.py"
+language = "python3"
